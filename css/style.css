@@ -14,7 +14,8 @@ html{
 .bannerBgImage{
     height: 95vh;
     width: 100%;
-    background: url("/images/wel1.jpg");
+    background-color:pink;
+    background-image:url("wel1.jpg");
     background-size: cover;
    
 
